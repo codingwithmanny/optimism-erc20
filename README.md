@@ -1,6 +1,6 @@
 # Build & Deploy Your Own ERC20 Token On Optimism
 
-This repository for the tutorial on how to [Build & Deploy Your Own ERC20 Token On Optimism]().
+This repository for the tutorial on how to [Build & Deploy Your Own ERC20 Token On Optimism](https://ankr.hashnode.dev/build-and-deploy-your-own-erc20-token-on-optimism).
 If you got value from it, please retweet it out on twitter and follow me at [@codingwithmanny](https://twitter.com/codingwithmanny).
 
 ---
